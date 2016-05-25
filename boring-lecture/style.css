@@ -1,0 +1,33 @@
+p.not-intro {
+  width: 50vw;
+  margin: auto;
+}
+
+h1.intro {
+  text-align: center;
+}
+
+p.intro {
+  color: #e34234;
+  width: 50vw;
+  margin: auto;
+  margin-top: 20px;
+  font-style:italic;
+  font-size: 120%;
+  text-shadow: 2px 2px 1px black ;
+
+}
+
+
+div.intro {
+  text-align: center;
+  margin: auto;
+  background-image: url("n-dakota.jpg");
+  background-size: contain;
+  width: 100vw;
+  height: 42vh;
+  border: solid;
+  margin-bottom: 50px;
+  padding: 20px;
+
+}
